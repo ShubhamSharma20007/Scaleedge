@@ -1,0 +1,17 @@
+.about-title-content{
+    padding: 0px;
+   
+}
+.col-class{
+    padding: 0px;
+    position: relative;
+}
+.about-subtitle{
+    display: flex;
+    justify-content: space-between;
+}
+.main-page-container-second{
+
+    background-color: #FFFCF3;
+    min-height: 100vh;
+}

@@ -1,0 +1,47 @@
+.ourproject-main-container{
+    margin-top: 100px;
+}
+.project-sub-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-project-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.right-project-section{
+    justify-content: end;
+    align-items: end;
+    display: flex;
+
+    
+}
+
+
+.swipe-btn{
+    background-color: #ffdc60;
+    border-radius: 50%;
+    color: #232323;
+    height: 50px;
+    line-height: 53px;
+    margin: 0 10px;
+    text-align: center;
+    border: none;
+    width: 50px;
+ 
+}
+
+@media screen and (max-width:1150px) {
+    .right-project-section{
+        justify-content: center;
+        margin: 10px 0px;
+    }
+    
+}
+
+
